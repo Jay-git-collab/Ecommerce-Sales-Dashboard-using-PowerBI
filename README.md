@@ -1,9 +1,42 @@
 # Ecommerce-Sales-Dashboard-using-PowerBI
 
-1. Developed an eCommerce sales dashboard in Power BI,handling data loading, transformation, and visualization.
-2. Utilized various chart types (stacked bar, pie, hollow pie, column stacked) to analyze sales data.
-3. Created an interactive report view with slicer.
+🛒 **Ecommerce Sales Dashboard – Power BI**
 
-Here is the ss of the dashboard.
-![image](https://github.com/user-attachments/assets/12c73dee-e5b3-4614-9d6e-b4c7e9509b07)
+An interactive dashboard built using Power BI to analyze and visualize eCommerce sales data. This project demonstrates end-to-end dashboard creation.
+
+
+📁**Dataset**
+
+Details.xlsx
+Orders.xlsx
+
+
+🔧**Key Features**
+
+***Diverse Visuals for Deep Analysis:***
+
+Utilized a range of charts including stacked bar, pie, hollow pie, and column stacked charts to effectively analyze sales trends and performance.
+
+***Interactive:*** 
+
+Created an interactive report view with slicers, allowing users to filter and explore data dynamically.
+
+
+📷 Dashboard Preview:
+
+Here is a screenshot of the dashboard:
+
+![image](https://github.com/user-attachments/assets/f6120185-607a-40a3-86e2-48a8d057a2ef)
+
+Showing only quarter 3 visuals
+
+![image](https://github.com/user-attachments/assets/4de21995-64d9-484f-b299-61dafee6006a)
+
+Showing w.r.t clothing
+
+![image](https://github.com/user-attachments/assets/94a40480-6f3d-4517-ac0e-6c15f21fe5a7)
+
+
+
+
 
