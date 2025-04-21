@@ -7,9 +7,9 @@ An interactive dashboard built using Power BI to analyze and visualize eCommerce
 
 📁**Dataset**
 
-Details.xlsx
+Details.csv
 
-Orders.xlsx
+Orders.csv
 
 
 🔧**Key Features**
